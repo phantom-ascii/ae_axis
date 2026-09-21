@@ -1,6 +1,8 @@
 # ae_axis
 > (previously know as GenesisX) 
+
 [![License: CERN-OHL-S-2.0](https://img.shields.io/badge/License-CERN--OHL--S--2.0-blue.svg)](LICENSE)
+
 > **License:** CERN-OHL-S-2.0  
 > **Author:** phantom-ascii (Year 10 Maker)  
 > **Project Goal:** Build an open-source 2-in-1 Linux laptop completely from scratch (custom motherboard, chassis, cooling, keyboard, power system, and firmware).
