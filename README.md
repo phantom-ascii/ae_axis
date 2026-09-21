@@ -9,8 +9,9 @@
 ---
 ## Overview
 ae_axis is an open-source 2-in-1 Linux laptop designed from scratch. Instead of just putting existing parts together into an off-the-shelf shell, the goal is to engineer a proper, high-performance laptop. The core compute platform is powered by the LattePanda Mu Ultra (Intel Lunar Lake Core Ultra 5/7 module), offering desktop-class x86 performance, incredible integrated graphics (Intel Arc), and an integrated NPU, all while sharing the same compact 69.6 × 60 mm form factor.
-> *"So many of our dreams at first seem impossible, then they seem improbable, and then, when we summon the will, they soon become inevitable."* — Christopher Reeve  
-> As a maker, my guiding philosophy for GenesisX is simple: **attain the unattainable.** Building a custom 2-in-1 Linux laptop from scratch with desktop-class performance is meant to push past what feels comfortable and turn an impossible blueprint into working open-source hardware.
+> *"So many of our dreams at first seem impossible, then they seem improbable, and then, when we summon the will, they soon become inevitable."* — Christopher Reeve 
+ 
+> As a maker, my guiding philosophy for ae_axis is simple: **attain the unattainable.** Building a custom 2-in-1 Linux laptop from scratch with desktop-class performance is meant to push past what feels comfortable and turn an impossible blueprint into working open-source hardware.
 ---
 ## Target Specs
 * **Compute Module:** LattePanda Mu Ultra (Intel Core Ultra 5 226V / Core Ultra 7 256V, 8C/8T, up to 4.8 GHz)
