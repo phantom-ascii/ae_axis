@@ -6,7 +6,7 @@
 
 > **License:** CERN-OHL-S-2.0  
 
-> **Author:** phantom-ascii (Year 10 Maker)  
+> **Author:** phantom-ascii (15 year old Maker)  
 
 > **Project Goal:** Design and build a fully open-source 12.2" 2-in-1 Linux laptop completely from scratch — custom carrier boards, modular chassis, power management, custom cooling, and a detached wireless keyboard.
 ---
