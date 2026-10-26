@@ -1,0 +1,203 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "8be3c966-099c-4ad4-a3f2-babacb4ab1e4")
+	(paper "A4")
+	(title_block
+		(title "ae_axis - Main Carrier")
+		(rev "v0.1")
+		(company "phantom-ascii")
+	)
+	(lib_symbols)
+	(sheet
+		(at 150.495 98.425)
+		(size 132.08 66.04)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "0bb9fedb-334c-45e3-8167-0f6757122902")
+		(property "Sheetname" "04_EXPANSION_STORAGE"
+			(at 150.495 97.7134 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "04_EXPANSION_STORAGE.kicad_sch"
+			(at 150.495 165.0496 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ae_axis-carrier_board"
+				(path "/8be3c966-099c-4ad4-a3f2-babacb4ab1e4"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.24 98.425)
+		(size 129.54 93.345)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "742d6488-4d90-44ac-88d0-d983f51b303f")
+		(property "Sheetname" "03_POWER_PD"
+			(at 15.24 97.7134 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "03_POWER_PD.kicad_sch"
+			(at 15.24 192.3546 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ae_axis-carrier_board"
+				(path "/8be3c966-099c-4ad4-a3f2-babacb4ab1e4"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 156.845 15.24)
+		(size 118.11 78.105)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "7501de75-be7a-4166-9d4b-29dabb097f55")
+		(property "Sheetname" "02_DISPLAY_eDP"
+			(at 156.845 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "02_DISPLAY_eDP.kicad_sch"
+			(at 156.845 93.9296 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ae_axis-carrier_board"
+				(path "/8be3c966-099c-4ad4-a3f2-babacb4ab1e4"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 15.875 15.24)
+		(size 133.35 78.105)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "9846d340-f685-4155-8939-7eaa494d85a2")
+		(property "Sheetname" "01_SoM_INTERFACE"
+			(at 15.875 14.5284 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "01_SoM_INTERFACE.kicad_sch"
+			(at 15.875 93.9296 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ae_axis-carrier_board"
+				(path "/8be3c966-099c-4ad4-a3f2-babacb4ab1e4"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
